@@ -14,19 +14,6 @@ p, ul {
 color: #000000;
 background-color: #c3e1e8;
 }
-#gt-r {
-position: fixed;
-float: right;
-width: 20%;
-padding: 10px;
-padding-top: 20px;
-height: fit-content;
-right: 0;
-}
-#left {
-float: left;
-width: 80%;
-}
 .all {
 margin-left: auto;
 margin-right: auto;
